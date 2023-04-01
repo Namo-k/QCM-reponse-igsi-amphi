@@ -85,3 +85,14 @@ button:hover {
   background-color: rgb(31, 140, 82);
   color: white;
 }
+
+footer{
+  margin-top: 10px;
+  border-top: 1px solid white;
+}
+
+footer > p {
+  text-align: center;
+  font-size: 1em;
+  color: rgb(140, 173, 185);
+}
